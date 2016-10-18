@@ -1,0 +1,7 @@
+==========================
+Installation Instructions
+==========================
+
+This software should build on Linux and Mac OSX systems with gtk and mysql development libraries installed.
+
+It should build on Windows systems as well, but this has not been tested.
